@@ -1,0 +1,8 @@
+{
+    "name": "octobro/firebase-auth",
+    "description": "Firebase grant type for OAuth2 plugin.",
+    "type": "october-plugin",
+    "require": {
+        "kreait/laravel-firebase": "^3.1.0"
+    }
+}
